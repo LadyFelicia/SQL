@@ -1,6 +1,6 @@
-This is a analysis over the Fortune 500 dataset:
+This is a analysis over the Fortune 500:
 
-Schema SQL: The code that created the Fortune 500 Database
+Schema SQL: The codes that created the Fortune 500 Database
 
 CREATE TABLE fortune_companies (
     company_id INTEGER PRIMARY KEY,
