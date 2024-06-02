@@ -1,6 +1,6 @@
-Dataset: Superstore Database
+The Superstore Analysis
 
-Schema SQL: The Code that created the Superstore Database
+Schema SQL: The codes that created the Superstore Database
 
 CREATE TABLE superstore (
     item_id INTEGER PRIMARY KEY,
@@ -29,7 +29,7 @@ VALUES
     (14, 'Cutlery Set', 'Kitchen Supplies', 34.50, 40, 4.4),
     (15, 'Cozy Throw Blanket', 'Furnishings', 24.99, 100, 4.2);
 
-My Query SQL: The code that I created to find answer to questions for my project.
+My Query SQL: The analysis
 
 SELECT *
 FROM superstore;
