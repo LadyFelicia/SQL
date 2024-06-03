@@ -60,7 +60,7 @@ VALUES
     ('s20', NULL, 'Blanca SuÃ¡rez| IvÃ¡n Marcos| Ã“scar Casas| AdriÃ¡n Lastra| Francesc Garrido| Stefan Weinert| Julia MÃ¶ller| Alicia Chojnowski')
     ;
 
-My Query SQL: The Analysis 
+My Query SQL: The Analysis (using the PostgreSQL dialect)
 
 SELECT * 
 FROM "netflix_titles_info"
