@@ -61,7 +61,7 @@ VALUES
     ('Company KK', 'Healthcare', 150.2, 3400, 0, 16, 8, 5.3);
 
 
-My Query SQL: The analysis
+My Query SQL: The analysis (Using the Standard SQL)
 
 SELECT*
 FROM fortune_companies;
