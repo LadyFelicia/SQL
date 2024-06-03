@@ -29,7 +29,7 @@ VALUES
     (14, 'Cutlery Set', 'Kitchen Supplies', 34.50, 40, 4.4),
     (15, 'Cozy Throw Blanket', 'Furnishings', 24.99, 100, 4.2);
 
-My Query SQL: The analysis
+My Query SQL: The analysis (Using the Standard SQL)
 
 SELECT *
 FROM superstore;
